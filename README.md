@@ -8,4 +8,4 @@ This is an embedded system consisting of an Raspberry Pi 4, a small touch screen
 - ***Dynamic Screen Lighting:*** Watch the screen change color based on your emotion—calming blue or vibrant red!
 - ***User Feedback:*** Users will be able to submit feedbacks which allows for improvements of the system
 ## Team Members
-Quant Trinh, Abdur-Rahman Shoaib, Alireza Shaeri, Kim, Suh Jin, Mayank Upadhyay
+Quant Trinh, Abdur-Rahman Shoaib, Alireza Shaeri, Suh Jin Kim, Mayank Upadhyay
